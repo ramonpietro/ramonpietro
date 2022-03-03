@@ -2,10 +2,13 @@
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him/his
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ultimoramon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimoramon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oramonroque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oramonroque/" height="30" width="40" /></a>
+<a href="https://instagram.com/oramonroque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oramonroque" height="30" width="40" /></a>
+</p>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oramonroque/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oramonroque)
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oramonroque@outlook.com)
 
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonroque&show_icons=true&theme=radical)
 
