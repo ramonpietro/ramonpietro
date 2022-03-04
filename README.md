@@ -1,6 +1,6 @@
 ### Hi, there! I'm Ramon 👋
 - 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PHP
 - 😄 Pronouns: he/him/his
 <h3 align="left">Connect with me:</h3>
 <p align="left">
