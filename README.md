@@ -1,6 +1,7 @@
 ### Hi, there! I'm Ramon 👋
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Python
+- 💻 Undergraduate student in Information Systems at UFOPA
 
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonroque&show_icons=true&theme=radical)
 
