@@ -1,7 +1,6 @@
 ### Hi, there! I'm Ramon 👋
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: he/him/his
 
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonroque&show_icons=true&theme=radical)
 
