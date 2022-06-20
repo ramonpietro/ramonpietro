@@ -1,5 +1,4 @@
 ### Hi, there! I'm Ramon 👋
-- 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Python
 - 💻 Undergraduate student in Information Systems at UFOPA
 
