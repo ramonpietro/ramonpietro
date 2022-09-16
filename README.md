@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python
 - 💻 Undergraduate student in Information Systems at UFOPA
 
-![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonroque&show_icons=true&theme=radical)
+![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonpietro&show_icons=true&theme=radical)
 
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
